@@ -53,6 +53,8 @@ foreach ($data as $nilai) {
     }
     echo "</table>";
 
+    echo "<br>";
+
 
 
 
